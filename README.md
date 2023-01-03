@@ -1,3 +1,3 @@
-# Hello, My name is kong sheng fu
+# Hello
 
 ## Nice to meet you
